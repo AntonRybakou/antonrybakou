@@ -18,7 +18,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ToshaBY&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
       title="ToshaBY github repositories" 
       alt="ToshaBY github stats"
-      width="45%"/>
+      width="47%"/>
   </a>
   <a href="https://github.com/ToshaBY?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaBY&&layout=compact&hide_border=true&title_color=D70&text_color=888&bg_color=0000"
