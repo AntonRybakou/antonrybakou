@@ -6,24 +6,24 @@
 
 <!-- ./STAT -->
 <div align="center">
-  <a href="https://skyline.github.com/ToshaBY/2022">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToshaBY&hide_border=true&stroke=888&ring=437&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=D70&background=0000"
-      title="ToshaBY" 
-      alt="ToshaBY"
+  <a href="https://skyline.github.com/antonrybakou/2022">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonrybakou&hide_border=true&stroke=888&ring=437&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=D70&background=0000"
+      title="antonrybakou" 
+      alt="antonrybakou"
       width="50%"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/ToshaBY?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=ToshaBY&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
-      title="ToshaBY github repositories" 
-      alt="ToshaBY github stats"
+  <a href="https://github.com/antonrybakou?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=antonrybakou&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
+      title="antonrybakou github repositories" 
+      alt="antonrybakou github stats"
       width="47%"/>
   </a>
-  <a href="https://github.com/ToshaBY?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaBY&&layout=compact&hide_border=true&title_color=D70&text_color=888&bg_color=0000"
-      title="ToshaBY github repositories"
-      alt="ToshaBY github stats"
+  <a href="https://github.com/antonrybakou?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonrybakou&&layout=compact&hide_border=true&title_color=D70&text_color=888&bg_color=0000"
+      title="antonrybakou github repositories"
+      alt="antonrybakou github stats"
       width="40%"/>
   </a>
 </div>
