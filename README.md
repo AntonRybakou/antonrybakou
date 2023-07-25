@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=150&section=header&text=Anton%20Rybakou&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=45&fontAlign=80&fontAlignY=40&descSize=18&descAlign=90&descAlignY=17"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=150&section=header&text=Anton%20Rybakou&desc=front-end%20developer&animation=fadeIn&fontColor=fff&fontSize=45&fontAlign=80&fontAlignY=40&descSize=18&descAlign=90&descAlignY=17"/>
 </div>
 <!-- /HEADER -->
 
@@ -38,7 +38,11 @@
       width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
-      title="Redux" alt="Redux "
+      title="Redux" alt="Redux"
+      width="40" height="40"/></a>&nbsp;
+  <a href="https://nextjs.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+      title="Nextjs" alt="Nextjs"
       width="40" height="40"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/CSS">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
@@ -64,6 +68,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
       title="GitHub" alt="GitHub"
       width="40" height="40"/></a>&nbsp;
+  <a href="https://tailwindcss.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      title="Tailwindcss" alt="Tailwindcss"
+      width="40" height="40"/></a>&nbsp;
   <a href="https://sass-lang.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
       title="Sass" alt="Sass"
@@ -73,7 +81,7 @@
       title="Material UI" alt="Material UI"
       width="40" height="40"/></a>&nbsp;
   <a href="https://www.jetbrains.com/webstorm/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"
       title="WebStorm" alt="WebStorm"
       width="40" height="40"/></a>&nbsp;
 </div>
@@ -83,7 +91,7 @@
 <!-- FOOTER -->
 <div align="center">
   <a href=mailto:anton.rybakou@gmail.com>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=120&section=footer&text=Ready%20to%20cooperation&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=120&section=footer&text=Ready%20to%20cooperate&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
   </a>
 </div>
 <!-- FOOTER -->
