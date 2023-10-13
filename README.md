@@ -104,7 +104,7 @@
 <!-- FOOTER -->
 <div align="center">
   <a href=mailto:anton.rybakou@gmail.com>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=120&section=footer&text=Ready%20to%20cooperate&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=120&section=footer&text=Contact%20me&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
   </a>
 </div>
 <!-- FOOTER -->
