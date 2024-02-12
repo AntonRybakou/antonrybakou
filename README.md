@@ -78,7 +78,7 @@
       width="40" height="40"/>
   </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
       title="Tailwindcss" alt="Tailwindcss"
       width="40" height="40"/>
   </a>&nbsp;
