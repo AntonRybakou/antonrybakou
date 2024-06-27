@@ -8,24 +8,22 @@
 <!-- STATS -->
 <div align="center">
   <a href="https://skyline.github.com/antonrybakou/2023">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonrybakou&hide_border=true&stroke=888&ring=437&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=D70&card_width=500&card_height=200&&background=0000"
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonrybakou&hide_border=true&stroke=888&ring=437&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=D70&card_width=500&card_height=200&background=0000"
       title="Anton Rybakou current streak" 
       alt="Anton Rybakou current streak"/>
   </a>
 </div>
 
-<div style="display: flex;justify-content: center" align="center">
+<div align="center">
   <a href="https://github.com/antonrybakou?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=antonrybakou&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000&card_width=400&card_height=200&&background=0000"
+    <img src="https://github-readme-stats.vercel.app/api?username=antonrybakou&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000&card_width=400&card_height=200&background=0000"
       title="Anton Rybakou github repositories" 
-      alt="Anton Rybakou github stats"
-      />
+      alt="Anton Rybakou github stats"/>
   </a>
   <a href="https://github.com/antonrybakou?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonrybakou&&layout=compact&hide_border=true&title_color=D70&text_color=888&bg_color=0000&card_width=400&card_height=200&&background=0000"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonrybakou&layout=compact&hide_border=true&title_color=D70&text_color=888&bg_color=0000&card_width=400&card_height=200&background=0000"
       title="antonrybakou github repositories"
-      alt="antonrybakou github stats"
-      />
+      alt="antonrybakou github stats"/>
   </a>
 </div>
 <!-- STATS -->
