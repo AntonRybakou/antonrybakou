@@ -50,6 +50,11 @@
       title="TypeScript" alt="TypeScript"
       width="40" height="30"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      title="JavaScript" alt="JavaScript"
+      width="40" height="30"/>
+  </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
       title="CSS3" alt="CSS"
@@ -58,11 +63,6 @@
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
       title="HTML5" alt="HTML"
-      width="40" height="30"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      title="JavaScript" alt="JavaScript"
       width="40" height="30"/>
   </a>
   <a href="https://git-scm.com/">
