@@ -1,7 +1,9 @@
 <!-- HEADER -->
 <div align="center">
+  <a href="https://www.linkedin.com/in/antonrybakov/" target="_blank">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=150&section=header&text=Anton%20Rybakou&desc=front-end%20developer&animation=fadeIn&fontColor=fff&fontSize=45&fontAlign=80&fontAlignY=40&descSize=18&descAlign=90&descAlignY=17"
     alt="Header image"/>
+  </a>
 </div>
 <!-- HEADER -->
 
