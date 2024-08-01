@@ -97,11 +97,11 @@
       title="WebStorm" alt="WebStorm"
       width="40" height="30"/>
   </a>
-  <a href="https://www.notion.so/" target="_blank">
+<!--   <a href="https://www.notion.so/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg"
       title="Notion" alt="Notion"
       width="40" height="30"/>
-  </a>
+  </a> -->
 </div>
 <!-- TOOLS -->
 
