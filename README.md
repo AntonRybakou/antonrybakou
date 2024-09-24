@@ -102,6 +102,11 @@
       title="Notion" alt="Notion"
       width="40" height="30"/>
   </a>
+  <a href="https://bun.sh/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg"
+      title="Bun" alt="Bun"
+      width="40" height="30"/>
+  </a>
 </div>
 <!-- TOOLS -->
 
